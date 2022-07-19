@@ -1,6 +1,6 @@
 # Travel Advisor
 
-![alt text](https://github.com/kayprogrammer/travel-advisor-with-react/tree/main/src/assets/display.png)
+![alt text](https://github.com/kayprogrammer/travel-advisor-with-react/blob/main/src/assets/display.png?raw=true)
 
 ## Available Scripts
 
