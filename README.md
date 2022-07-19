@@ -34,4 +34,4 @@ Open weather map Api - [https://rapidapi.com/community/api/open-weather-map/](ht
 
 [https://travel-advisor-kp.netlify.app/](https://travel-advisor-kp.netlify.app/)
 
-Note: I'm currently using the free version of the google cloud's platform. So the app is a little bit limited. 
+Note: I'm currently using the free version of the google cloud's platform. So the maps area is a little bit limited. 
