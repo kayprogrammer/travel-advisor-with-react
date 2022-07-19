@@ -24,9 +24,14 @@ Open weather map Api - [https://rapidapi.com/community/api/open-weather-map/](ht
 1. Download repository
 2. In your root directory, run..
 
-   *`npm install` to install dependencies.
+   * `npm install` to install dependencies.
    
    * `npm start` to start the development server.
 
    * Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+## Production server
+
+[https://travel-advisor-kp.netlify.app/](https://travel-advisor-kp.netlify.app/)
+
+Note: I'm currently using the free version of the google cloud's platform. So the app is a little bit limited. 
