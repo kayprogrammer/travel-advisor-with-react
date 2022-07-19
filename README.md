@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Travel Advisor
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![alt text](https://github.com/kayprogrammer/travel-advisor-with-react/tree/main/src/assets/display.png?raw=true)
 
 ## Available Scripts
 
