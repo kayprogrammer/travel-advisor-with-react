@@ -10,7 +10,7 @@ You can also search for the same in other places.
 ## Built with
 ReactJs
 
-Maps Javascript Api - [https://console.cloud.google.com/marketplace/product/google/maps-backend.googleapis.com](https://console.cloud.google.com/marketplace/product/google/maps-backend.googleapis.com) 
+[Maps Javascript Api](https://console.cloud.google.com/marketplace/product/google/maps-backend.googleapis.com) 
 
 Places Api - [https://console.cloud.google.com/marketplace/product/google/places-backend.googleapis.com](https://console.cloud.google.com/marketplace/product/google/places-backend.googleapis.com)
 
